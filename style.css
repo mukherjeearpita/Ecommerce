@@ -410,6 +410,7 @@ span{
 	justify-content:space-between;
 	padding:75px;
 	background-color:#ececec;
+	margin-top:100px;
 }
 #footer p, #footer a{
 	color:rgb(109, 109, 109);
@@ -431,4 +432,11 @@ span{
 	border-radius:7px;
 }
 
-
+#webside{
+	background-color:lightgray;
+	color:white;
+	margin-top:100px;
+}
+.card-header{
+	background-color:khaki;
+}
